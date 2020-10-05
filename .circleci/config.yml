@@ -11,7 +11,7 @@ jobs:
           name: Saludos
           command: echo Hello, world.
           
-      - run 
+      - run:
           name: Imprime la fecha actual
           command: date
          
